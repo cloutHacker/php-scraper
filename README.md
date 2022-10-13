@@ -4,10 +4,11 @@
 </br>
 *It can scrape using filter tags and also take also attributes for example in the sample code it scraped all the images in jumia.*
 </br>
-<img alt="jumia image" src="https://windows-cdn.softpedia.com/screenshots/Jumia-Desktop-App_1.jpg" height="500">
+<img alt="jumia image" src="https://github.com/cloutHacker/projectImages/blob/master/scraper/scraper.png" height="500">
 </br>
-This helps you in many projects such as url extractor of youtube and other sample projects.
-This project uses eloquent functions alot making it easy to run code and save time.
+This helps you in many projects such as url extractor for youtube and other sample projects.
+This project uses eloquent methods alot making it easy to run code and save time.
+The preview I have given is for scraping Jumia, but this project can be used for any other purposes.Soon I will be releasing one of nodejs so stay tune to my account.
 </br>
-**Thank you for visiting my account.**😀
+Thank you for visiting my account.😀
 
